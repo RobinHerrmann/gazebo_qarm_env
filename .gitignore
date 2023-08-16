@@ -1,0 +1,14 @@
+# Gitignore
+
+__pycache__
+log
+ddpg_agent_3.png
+ddpg_agent_4.png
+ddpg_agent_5.png
+weights*_*.hdf5
+ddpg_sb_test1.zip
+Example_DDPGAgent.ipynb
+ddpg_sb_test1.zip
+DDPG_Test_1.csv
+DDPG_Test_2.csv
+DDPG_Test_3.csv
